@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# 𝒲ℯ𝓁𝒸ℴ𝓂ℯ✨
 
-You can use the [editor on GitHub](https://github.com/12lucifer18/12lucifer18.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+J˚ ༘ ·˚꒰ᥕᥱᥣᥴ᥆꧑ᥱ t᥆ ꧑ᥡ 𝐷𝑎𝑟𝑘𝑠𝑖𝑑𝑒꒱ ₊˚ˑ༄
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ㅤㅤㅤㅤㅤㅤㅤ╭┈─────── ೄྀ࿐ ˊˎ-
+                     | i. ᴀʙᴏᴜᴛ ᴍᴇ
+                     | ii. ʟɪᴋᴇs & ᴅɪsʟɪᴋᴇs
+                     | iii. ᴏᴛʜᴇʀ
+ㅤㅤㅤㅤㅤㅤㅤ╰┈─➤ ❝ Context❞
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+dark world dark heart
 
-- Bulleted
-- List
+       # ᴀʙᴏᴜᴛ ᴍᴇ
+.   .   .   .   .   .   .   .   .
+𝑳𝒖𝒄𝒊𝒇𝒆𝒓・❥・18・❥・ 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔
+𝑪𝒂𝒏𝒄𝒆𝒓 ・❥・𝑱𝒖𝒍𝒚 8th
+ 𝑻𝒉𝒆𝒎𝒆 𝒃𝒍𝒂𝒄𝒌˚. 𝑩𝒐𝒓𝒆𝒅・❥・
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+nyctophilia
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/12lucifer18/12lucifer18.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+                            ʟɪᴋᴇs & ᴅɪsʟɪᴋᴇs
+                .   .   .   .   .   .   .   .   .   .
+                  
+         ● 𝐿𝑒𝑎𝑟𝑛 𝑐𝑜𝑑𝑖𝑛𝑔 𝑎𝑛𝑑 𝑙𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠     ● 𝑤𝑎𝑠𝑡𝑖𝑛𝑔 𝑡𝑖𝑚𝑒
+         ● 𝑝𝑙𝑎𝑦 𝑔𝑎𝑚𝑒𝑠            
+   
+                                                                                                         
+                     
